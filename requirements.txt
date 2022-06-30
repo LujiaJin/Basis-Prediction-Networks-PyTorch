@@ -1,0 +1,9 @@
+numpy~=1.21.4
+torch~=1.11.0.dev20211210+cu111
+scikit-image~=0.19.2
+imagesize~=1.3.0
+configobj~=5.0.6
+torchvision~=0.12.0.dev20211210+cu111
+Pillow~=8.4.0
+natsort~=8.0.1
+tensorboardX~=2.4.1
