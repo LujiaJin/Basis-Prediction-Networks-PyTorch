@@ -58,7 +58,7 @@ python train_and_eval.py --config_file configs/<your_config>.conf -c -m
 
 ## Test
 ### Download pre-trained models
-My pre-trained models on [ImageNet 2012 Validation](https://image-net.org/download-images) dataset with AWGN of $\sigma$=25 can be found [here](), including denoising models for both grayscale and color images.
+My pre-trained models on [ImageNet 2012 Validation](https://image-net.org/download-images) dataset with AWGN of $\sigma$=25 can be found [here](https://drive.google.com/drive/folders/1MJmBC10Y6OTFd_Vrr24ceQaYjik69hO3?usp=sharing), including denoising models for both grayscale and color images.
 
 The downloaded models for grayscale and color images should be placed in the `models/checkpoints/AWGN_gray/` and `models/checkpoints/AWGN_RGB/` directories respectively.
 
@@ -82,7 +82,7 @@ Several representative image examples of the denoising results are provided belo
 #### for color images:
 <table>
 <tr>
-<td> <center> <img src="https://github.com/LujiaJin/Basis-Prediction-Networks-PyTorch/results/AWGN_RGB/SET14/0_gt.png"/ width="300"> </center> </td>
+<td> <center> <img src="https://github.com/LujiaJin/Basis-Prediction-Networks-PyTorch/blob/main/results/AWGN_RGB/SET14/0_gt.png"/ width="300"> </center> </td>
 
 <td> <center> <img src="https://github.com/LujiaJin/Basis-Prediction-Networks-PyTorch/results/AWGN_RGB/SET14/0_noisy_20.3030dB_0.6210_0.0966_0.9284.png"/ width="300" height=width> </center> </td>
 
