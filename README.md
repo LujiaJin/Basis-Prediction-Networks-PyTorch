@@ -146,20 +146,20 @@ Several representative image examples of the denoising results are provided belo
 The quantitative evaluation results on the three test sets are also given as follows. In addition to the PSNR selected in the original paper, this re-implementation adds three additional quantitative image quality evaluation metrics, SSIM, RMSE, and Pearson R.
 
 #### for color images:
-|          | PSNR (dB) | SSIM  | RMSE  | R     |
+|          | PSNR (dB) | SSIM  | RMSE  |   R   |
 | -------- | --------- | ----- | ----- | ----- |
-| BSD300   | 33.76     | 0.943 | 0.021 | 0.996 |
-| KODAK    | 35.07     | 0.941 | 0.018 | 0.996 |
-| SET14    | 33.21     | 0.924 | 0.023 | 0.996 |
-| average  | 33.84     | 0.942 | 0.021 | 0.996 |
+|  BSD300  |   33.76   | 0.943 | 0.021 | 0.996 |
+|  KODAK   |   35.07   | 0.941 | 0.018 | 0.996 |
+|  SET14   |   33.21   | 0.924 | 0.023 | 0.996 |
+| average  |   33.84   | 0.942 | 0.021 | 0.996 |
 
 #### for grayscale images:
 |          | PSNR (dB) | SSIM  | RMSE  | R     |
 | -------- | --------- | ----- | ----- | ----- |
-| BSD300   | 31.43     | 0.918 | 0.028 | 0.992 |
-| KODAK    | 33.76     | 0.917 | 0.021 | 0.993 |
-| SET14    | 32.24     | 0.909 | 0.026 | 0.995 |
-| average  | 31.63     | 0.917 | 0.028 | 0.993 |
+|  BSD300  |   31.43   | 0.918 | 0.028 | 0.992 |
+|  KODAK   |   33.76   | 0.917 | 0.021 | 0.993 |
+|  SET14   |   32.24   | 0.909 | 0.026 | 0.995 |
+| average  |   31.63   | 0.917 | 0.028 | 0.993 |
 
 ## License
 All the materials, including the codes and pretrained models, are made freely available for non-commercial use under the [Mozilla Public License 2.0](https://www.mozilla.org/en-US/MPL/2.0/).
