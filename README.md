@@ -162,6 +162,6 @@ The quantitative evaluation results on the three test sets are also given as fol
 | average  |   31.63   | 0.917 | 0.028 | 0.993 |
 
 ## License
-All the materials, including the codes and pretrained models, are made freely available for non-commercial use under the [Mozilla Public License 2.0](https://www.mozilla.org/en-US/MPL/2.0/).
+All the materials, including the codes and pretrained models, are made freely available for non-commercial use under the [GNU GENERAL PUBLIC LICENSE Version 3](https://www.gnu.org/licenses/gpl-3.0.html).
 
 #### If you like this repo, Star or Fork to support my work. Thank you!
