@@ -84,9 +84,9 @@ Several representative image examples of the denoising results are provided belo
 <tr>
 <td> <center> <img src="https://github.com/LujiaJin/Basis-Prediction-Networks-PyTorch/blob/main/results/AWGN_RGB/SET14/0_gt.png"/ width="300"> </center> </td>
 
-<td> <center> <img src="https://github.com/LujiaJin/Basis-Prediction-Networks-PyTorch/results/AWGN_RGB/SET14/0_noisy_20.3030dB_0.6210_0.0966_0.9284.png"/ width="300" height=width> </center> </td>
+<td> <center> <img src="https://github.com/LujiaJin/Basis-Prediction-Networks-PyTorch/blob/main/results/AWGN_RGB/SET14/0_noisy_20.3030dB_0.6210_0.0966_0.9284.png"/ width="300" height=width> </center> </td>
 
-<td> <center> <img src="https://github.com/LujiaJin/Basis-Prediction-Networks-PyTorch/results/AWGN_RGB/SET14/0_pred_28.0294dB_0.8741_0.0397_0.9889"/ width="300" height=width> </center> </td>
+<td> <center> <img src="https://github.com/LujiaJin/Basis-Prediction-Networks-PyTorch/blob/main/results/AWGN_RGB/SET14/0_pred_28.0294dB_0.8741_0.0397_0.9889"/ width="300" height=width> </center> </td>
 </tr>
 
 <tr>
@@ -96,11 +96,11 @@ Several representative image examples of the denoising results are provided belo
 </tr>
 
 <tr>
-<td> <center> <img src="https://github.com/LujiaJin/Basis-Prediction-Networks-PyTorch/results/AWGN_RGB/SET14/4_gt.png"/ width="300"> </center> </td>
+<td> <center> <img src="https://github.com/LujiaJin/Basis-Prediction-Networks-PyTorch/blob/main/results/AWGN_RGB/SET14/4_gt.png"/ width="300"> </center> </td>
 
-<td> <center> <img src="https://github.com/LujiaJin/Basis-Prediction-Networks-PyTorch/results/AWGN_RGB/SET14/4_noisy_20.4918dB_0.6354_0.0945_0.9353.png"/ width="300" height=width> </center> </td>
+<td> <center> <img src="https://github.com/LujiaJin/Basis-Prediction-Networks-PyTorch/blob/main/results/AWGN_RGB/SET14/4_noisy_20.4918dB_0.6354_0.0945_0.9353.png"/ width="300" height=width> </center> </td>
 
-<td> <center> <img src="https://github.com/LujiaJin/Basis-Prediction-Networks-PyTorch/results/AWGN_RGB/SET14/4_pred_32.1668dB_0.9619_0.0246_0.9957.png"/ width="300" height=width> </center> </td>
+<td> <center> <img src="https://github.com/LujiaJin/Basis-Prediction-Networks-PyTorch/blob/main/results/AWGN_RGB/SET14/4_pred_32.1668dB_0.9619_0.0246_0.9957.png"/ width="300" height=width> </center> </td>
 </tr>
 
 <tr>
@@ -114,11 +114,11 @@ Several representative image examples of the denoising results are provided belo
 
 <table>
 <tr>
-<td> <center> <img src="https://github.com/LujiaJin/Basis-Prediction-Networks-PyTorch/results/AWGN_gray/SET14/8_gt.png"/ width="300"> </center> </td>
+<td> <center> <img src="https://github.com/LujiaJin/Basis-Prediction-Networks-PyTorch/blob/main/results/AWGN_gray/SET14/8_gt.png"/ width="300"> </center> </td>
 
-<td> <center> <img src="https://github.com/LujiaJin/Basis-Prediction-Networks-PyTorch/results/AWGN_gray/SET14/8_noisy_18.5804dB_0.3202_0.1178_0.8884"/ width="300" height=width> </center> </td>
+<td> <center> <img src="https://github.com/LujiaJin/Basis-Prediction-Networks-PyTorch/blob/main/results/AWGN_gray/SET14/8_noisy_18.5804dB_0.3202_0.1178_0.8884"/ width="300" height=width> </center> </td>
 
-<td> <center> <img src="https://github.com/LujiaJin/Basis-Prediction-Networks-PyTorch/results/AWGN_gray/SET14/8_pred_27.8295dB_0.8423_0.0406_0.9953"/ width="300" height=width> </center> </td>
+<td> <center> <img src="https://github.com/LujiaJin/Basis-Prediction-Networks-PyTorch/blob/main/results/AWGN_gray/SET14/8_pred_27.8295dB_0.8423_0.0406_0.9953"/ width="300" height=width> </center> </td>
 </tr>
 
 <tr>
@@ -128,11 +128,11 @@ Several representative image examples of the denoising results are provided belo
 </tr>
 
 <tr>
-<td> <center> <img src="https://github.com/LujiaJin/Basis-Prediction-Networks-PyTorch/results/AWGN_gray/SET14/11_gt.png"/ width="300"> </center> </td>
+<td> <center> <img src="https://github.com/LujiaJin/Basis-Prediction-Networks-PyTorch/blob/main/results/AWGN_gray/SET14/11_gt.png"/ width="300"> </center> </td>
 
-<td> <center> <img src="https://github.com/LujiaJin/Basis-Prediction-Networks-PyTorch/results/AWGN_gray/SET14/11_noisy_18.8532dB_0.3041_0.1141_0.9082"/ width="300" height=width> </center> </td>
+<td> <center> <img src="https://github.com/LujiaJin/Basis-Prediction-Networks-PyTorch/blob/main/results/AWGN_gray/SET14/11_noisy_18.8532dB_0.3041_0.1141_0.9082"/ width="300" height=width> </center> </td>
 
-<td> <center> <img src="https://github.com/LujiaJin/Basis-Prediction-Networks-PyTorch/results/AWGN_gray/SET14/11_pred_32.6694dB_0.8572_0.0233_0.9960"/ width="300" height=width> </center> </td>
+<td> <center> <img src="https://github.com/LujiaJin/Basis-Prediction-Networks-PyTorch/blob/main/results/AWGN_gray/SET14/11_pred_32.6694dB_0.8572_0.0233_0.9960"/ width="300" height=width> </center> </td>
 </tr>
 
 <tr>
