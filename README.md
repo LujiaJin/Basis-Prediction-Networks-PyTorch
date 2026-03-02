@@ -1,4 +1,7 @@
 # Basis-Prediction-Networks-PyTorch
+
+<sub>💡 **Tip**: If you find this repository's structure or content difficult to understand, visit [deepwiki](https://deepwiki.com/LujiaJin/Basis-Prediction-Networks-PyTorch) for a comprehensive detailed explanation.</sub>
+
 Reimplementation of "[Basis Prediction Networks for Effective Burst Denoising with Large Kernels](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xia_Basis_Prediction_Networks_for_Effective_Burst_Denoising_With_Large_Kernels_CVPR_2020_paper.pdf)" by using PyTorch.
 
 The source code of the paper was implemented in TensorFlow 1, but not disclosed by the authors due to patent issues. A re-implementation in TensorFlow 2 was shared by Zhihao Xia, the first author of the paper, at [https://github.com/likesum/bpn](https://github.com/likesum/bpn).
